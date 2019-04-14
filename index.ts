@@ -1,0 +1,1 @@
+console.log('TypeScript transpiler is working!');
